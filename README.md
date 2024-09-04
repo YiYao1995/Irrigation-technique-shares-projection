@@ -28,6 +28,6 @@ We separate different CFTs into different groups: drip CFTs, sprinkler CFTs, and
 
     Scenarios_design_final_modified_for_ISIMIP.py
     
-Step 6: Generate the final data
+**Step 6: Generate the final data**
 
     data_implement_final.m
